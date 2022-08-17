@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Rushi Gore",
+    "flightno": "AI-814",
+    "bookingID": 123,
+    "boarding": "Surat",
+    "departure": "Srinagar",
+    "time": "11:40"
+  },
+  {
+    "name": "Shanya Sharma",
+    "flightno": "SG-8701",
+    "bookingID": 486,
+    "boarding": "Mumbai",
+    "departure": "Leh",
+    "time": "19:50"
+  },
+  {
+    "name": "Andrew Garfield",
+    "flightno": "UK-963",
+    "bookingID": 945,
+    "boarding": "Bareilly",
+    "departure": "Agra",
+    "time": "02:20"
+  }
+]

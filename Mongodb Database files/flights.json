@@ -1,0 +1,26 @@
+[
+  {
+    "flightno": "AI-814",
+    "cities": ["Surat", "Bengaluru", "Srinagar"],
+    "timings": ["09:30", "11:40", "15:20"],
+    "category": "passenger"
+  },
+  {
+    "flightno": "UK-963",
+    "cities": ["Agra", "Bareilly", "Bhopal"],
+    "timings": ["02:20", "20:30", "16:00"],
+    "category": "cargo"
+  },
+  {
+    "flightno": "G8-530",
+    "cities": ["Aurangabad", "Coimbatore", "Pune"],
+    "timings": ["11:10", "15:00", "18:30"],
+    "category": "cargo"
+  },
+  {
+    "flightno": "SG-8701",
+    "cities": ["Mumbai", "Leh", "Patna"],
+    "timings": ["22:00", "19:50", "17:40"],
+    "category": "passenger"
+  }
+]
